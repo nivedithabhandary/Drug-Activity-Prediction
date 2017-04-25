@@ -26,6 +26,7 @@ Ensemble Dimensionality reducer is used to check which dimensionality reduction 
 * EnsembleDimensionalityReduction.py: Helper class to test different DR techniques
 * EnsembleClassifier.py: Helper methods to check different classifiers
 
+## Observations:
 <p align="center">
   <img src="https://github.com/nivedithabhandary/Drug-Activity-Prediction/blob/master/Results.png">
 </p>
